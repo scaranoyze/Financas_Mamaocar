@@ -44,6 +44,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Gasolina", valor: 50, data: "2026-08-11" },
         { descricao: "Fita dupla face", valor: 40, data: "2026-08-11" },
         { descricao: "Jorge som Marcelo", valor: 50, data: "2026-08-12" },
+        { descricao: "Bateria Luciano", valor: 350, data: "2026-09-10" },
       ],
     },
 
