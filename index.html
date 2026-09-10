@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <!-- CONFIGURAÇÕES DA PÁGINA -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Painel de veículos e caixa da Mamão Car">
+  <title>Mamão Car | Financeiro</title>
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- EDITE OS VALORES EM dados.js. Ele deve carregar antes de app.js. -->
+  <script defer src="dados.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <!-- MENU LATERAL E LOGO -->
+  <aside>
+    <a class="brand" href="#veiculos">
+      <img class="brand-logo" src="logomamaocar.png" alt="Mamão Car">
+      <small>GESTÃO FINANCEIRA</small>
+    </a>
+    <div class="navlabel">CONTROLE DA LOJA</div>
+    <nav aria-label="Áreas do painel">
+      <button type="button" data-view="veiculos" class="active" aria-pressed="true">▤ <span>Veículos</span></button>
+      <button type="button" data-view="caixa" aria-pressed="false">▣ <span>Caixa parado</span></button>
+    </nav>
+    <div class="asidebottom">
+      <strong id="nomeLoja">Mamão Car</strong>
+      <span>Painel de consulta</span>
+      <span>Recarregue para ver novas publicações</span>
+    </div>
+  </aside>
+
+  <!-- CONTEÚDO: os números e as tabelas são montados pelo app.js. -->
+  <main>
+    <header>
+      <span>Financeiro <span class="crumb">/ <span id="crumb">Veículos</span></span></span>
+      <span class="badge">PAINEL DE CONSULTA</span>
+    </header>
+    <div class="content">
+      <div class="heading">
+        <div>
+          <p class="eyebrow">VISÃO FINANCEIRA</p>
+          <h1 id="title">Custos dos veículos</h1>
+          <p id="subtitle">Investimento e resultado previsto por veículo.</p>
+        </div>
+        <button type="button" id="recarregar">↻ Recarregar página</button>
+      </div>
+      <div id="erro" class="notice" role="alert" hidden></div>
+      <div id="stats" class="stats"></div>
+      <div id="workspace"></div>
+      <noscript>Ative o JavaScript no navegador para visualizar o painel.</noscript>
+      <footer>
+        <span>Valores em reais (R$)</span>
+        <span>Lucro estimado = venda prevista − compra − custos registrados</span>
+      </footer>
+    </div>
+  </main>
+</body>
+</html>
