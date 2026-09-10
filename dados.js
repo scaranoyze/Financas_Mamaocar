@@ -75,7 +75,7 @@ window.DADOS_MAMAOCAR = {
       nome: "Fox Connect 2018 1.6 branco",
       socios: "Marcelo",
       dataEntrada: "",
-      valorCompra: 49700,
+      valorCompra: 48700,
       vendaPrevista: 55000, // Edite aqui o valor pretendido de venda.
 
       // Serviços e despesas deste veículo. Para adicionar, copie uma linha.
