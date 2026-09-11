@@ -93,9 +93,9 @@ window.DADOS_MAMAOCAR = {
       id: "Upi-2016-cinza",
       nome: "Upi 2016 cinza",
       socios: "Marcelo",
-      dataEntrada: "",
+      dataEntrada: "2026-09-11",
       valorCompra: 39000,
-      vendaPrevista: 0,
+      vendaPrevista: 51000,
       custos: [
         { descricao: "Parabrisa", valor: 950, data: "2026-09-11" },
       ],
