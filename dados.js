@@ -66,6 +66,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Despachante (transferência para o nome da loja)", valor: 1180, data: "2026-09-03" },
         { descricao: "Vistoria + cartório (Mamão)", valor: 382, data: "2026-09-03" },
         { descricao: "Higienização", valor: 150, data: "2026-09-08" },
+        { descricao: "gasolina", valor: 50, data: "2026-09-11" },
       ],
     },
 
