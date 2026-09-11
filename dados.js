@@ -88,17 +88,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Bateria Luciano", valor: 350, data: "2026-09-10" },
       ],
     },
- {
-      id: "UPI-2014-PRATA",
-      nome: "UPI",
-      socios: "MARCELO",
-      dataEntrada: "2026-09-11",
-      valorCompra: 39000,
-      vendaPrevista: 50000,
-      custos: [
-        { descricao: "Descrição do serviço", valor: 0, data: "" },
-      ],
-    },
+
   ],
 
   // 3. CAIXA PARADO
