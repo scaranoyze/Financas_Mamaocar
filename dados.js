@@ -89,7 +89,27 @@ window.DADOS_MAMAOCAR = {
       ],
     },
 
+  ],{
+      id: "UPI-marcelo", // Identificador único: não repita em outro veículo.
+      nome: "UPI",
+      socios: "Marcelo",
+      dataEntrada: "",
+      valorCompra: 39000,
+      vendaPrevista: 55000, // Edite aqui o valor pretendido de venda.
+
+      // Serviços e despesas deste veículo. Para adicionar, copie uma linha.
+      custos: [
+        { descricao: "Baixa gravame", valor: 90, data: "" },
+        { descricao: "Gasolina", valor: 50, data: "" },
+        { descricao: "Propaganda setembro", valor: 500, data: "" },
+        { descricao: "Martelinho", valor: 300, data: "2026-09-03" },
+        { descricao: "Higienização", valor: 150, data: "2026-09-08" },
+        { descricao: "Bateria Luciano", valor: 350, data: "2026-09-10" },
+      ],
+    },
+
   ],
+  
 
   // 3. CAIXA PARADO
   caixa: {
