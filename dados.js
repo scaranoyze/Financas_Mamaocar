@@ -95,9 +95,10 @@ window.DADOS_MAMAOCAR = {
       socios: "Marcelo",
       dataEntrada: "2026-09-11",
       valorCompra: 39000,
-      vendaPrevista: 51000,
+      vendaPrevista: 48900,
       custos: [
         { descricao: "Parabrisa", valor: 950, data: "2026-09-11" },
+        { descricao: "2 Pneus", valor: 586, data: "2026-09-11" },
       ],
     },
   ],
