@@ -89,7 +89,17 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Bateria Luciano", valor: 350, data: "2026-09-10" },
       ],
     },
-
+      {
+      id: "modelo-upi-cinza",
+      nome: "Modelo do veículo e ano",
+      socios: "Nome do responsável",
+      dataEntrada: "",
+      valorCompra: 0,
+      vendaPrevista: 0,
+      custos: [
+        { descricao: "Descrição do serviço", valor: 0, data: "" },
+      ],
+    },
   ],
 
   // 3. CAIXA PARADO
