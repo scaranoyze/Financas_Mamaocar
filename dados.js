@@ -75,7 +75,7 @@ window.DADOS_MAMAOCAR = {
       id: "fox-connect-2018-branco-marcelo", // Identificador único: não repita em outro veículo.
       nome: "Fox Connect 2018 1.6 branco",
       socios: "Marcelo",
-      dataEntrada: "",
+      dataEntrada: "2026-08-31",
       valorCompra: 48700,
       vendaPrevista: 55000, // Edite aqui o valor pretendido de venda.
 
@@ -99,6 +99,7 @@ window.DADOS_MAMAOCAR = {
       custos: [
         { descricao: "Parabrisa", valor: 950, data: "2026-09-11" },
         { descricao: "2 Pneus", valor: 586, data: "2026-09-11" },
+        { descricao: "som (retirada)", valor: 50, data: "2026-09-11" },
       ],
     },
   ],
