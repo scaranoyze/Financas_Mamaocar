@@ -68,6 +68,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Higienização", valor: 150, data: "2026-09-08" },
         { descricao: "gasolina", valor: 50, data: "2026-09-11" },
         { descricao: "Cartorio e Atpv Cartorio", valor: 102, data: "2026-09-15" },
+        { descricao: "Comissão Leo", valor: 90, data: "2026-09-15" },
       ],
     },
 
