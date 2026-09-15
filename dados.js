@@ -50,11 +50,11 @@ window.DADOS_MAMAOCAR = {
     // JEEP RENEGADE 2018
     {
       id: "r18", // Identificador único: não repita em outro veículo.
-      nome: "Jeep Renegade 2018",
+      nome: "VENDIDO Renegade Branco 2018 LUCRO: R$ 8.276,00",
       socios: "Marcelo / Marcelo / Gil",
       dataEntrada: "2026-07-28",
       valorCompra: 56000,
-      vendaPrevista: 68000, // Edite aqui o valor pretendido de venda.
+      vendaPrevista: , // Edite aqui o valor pretendido de venda.
 
       // Serviços e despesas deste veículo. Para adicionar, copie uma linha.
       custos: [
