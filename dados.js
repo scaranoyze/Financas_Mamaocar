@@ -148,13 +148,16 @@ window.DADOS_MAMAOCAR = {
     {
       id: "hb20x-premium-2016",
       nome: "HB20X 1.6 Premium 2016",
-      socios: "",
+      socios: "Marcelo",
       dataEntrada: "2026-09-15",
 
       valorCompra: 55200,
       vendaPrevista: 63700,
 
-      custos: [],
+      custos: [
+
+      
+      ],
     },
 
   ],
