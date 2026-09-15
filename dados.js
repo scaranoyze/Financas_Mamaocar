@@ -100,6 +100,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Parabrisa", valor: 950, data: "2026-09-11" },
         { descricao: "2 Pneus", valor: 586, data: "2026-09-11" },
         { descricao: "som (retirada)", valor: 50, data: "2026-09-11" },
+        { descricao: "Marco Peças (suspensão)", valor: 200, data: "2026-09-15" },
       ],
     },
   ],
