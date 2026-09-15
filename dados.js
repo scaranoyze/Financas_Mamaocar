@@ -67,6 +67,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Vistoria + cartório (Mamão)", valor: 382, data: "2026-09-03" },
         { descricao: "Higienização", valor: 150, data: "2026-09-08" },
         { descricao: "gasolina", valor: 50, data: "2026-09-11" },
+        { descricao: "Cartorio e Atpv Cartorio", valor: 102, data: "2026-09-15" },
       ],
     },
 
