@@ -102,6 +102,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "2 Pneus", valor: 586, data: "2026-09-11" },
         { descricao: "som (retirada)", valor: 50, data: "2026-09-11" },
         { descricao: "Marco Peças (suspensão)", valor: 200, data: "2026-09-15" },
+        { descricao: "Mao de obra (suspensão mamao)", valor: 200, data: "2026-09-15" },
       ],
     },
   ],  
