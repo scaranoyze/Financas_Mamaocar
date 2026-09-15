@@ -1,7 +1,7 @@
 'use strict';
 
 /*
- * MAMÃO CAR — FUNCIONAMENTO DO PAINELf
+ * MAMÃO CAR — FUNCIONAMENTO DO PAINEL
  * Para editar veículos, preços, custos e caixa, abra dados.js.
  * Este arquivo apenas valida, calcula e apresenta essas informações.
  * Não utiliza localStorage, não grava lançamentos e não altera o GitHub.
