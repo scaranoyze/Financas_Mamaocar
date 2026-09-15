@@ -104,18 +104,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Marco Peças (suspensão)", valor: 200, data: "2026-09-15" },
       ],
     },
-  ],{
-      id: "HB20x-1.6-2016",
-      nome: "HB20X 1.6 2016 Premium",
-      socios: "Marcelo",
-      dataEntrada: "2026-09-15",
-      valorCompra: 55200,
-      vendaPrevista: 63900,
-      custos: [
-        { descricao: "", valor:, data: "2026-09-11" },
-      ],
-    },
-  ],
+  ],  
   
 
   // 3. CAIXA PARADO
