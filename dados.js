@@ -139,7 +139,24 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Mão de obra (suspensão Mamão)", valor: 200, data: "2026-09-15" },
       ],
     },
+    {
+  id: "modelo-ano-cor",
+  nome: "Modelo do veículo e ano",
+  socios: "Nome do responsável",
+  dataEntrada: "",
 
+  valorCompra: 0,
+  vendaPrevista: 0,
+
+  custos: [
+    {
+      descricao: "Descrição do serviço",
+      valor: 0,
+      data: "",
+    },
+  ],
+},
+]
 
   // =========================================================
   // 3. CAIXA PARADO
