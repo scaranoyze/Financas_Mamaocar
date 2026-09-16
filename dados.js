@@ -50,11 +50,11 @@ window.DADOS_MAMAOCAR = {
     // JEEP RENEGADE 2018
     {
       id: "r18", // Identificador único: não repita em outro veículo.
-      nome: "VENDIDO Renegade Branco 2018 LUCRO: R$ 8.276,00",
+      nome: "VENDIDO Renegade Branco 2018 LUCRO: R$ 8.276,00 Data: 15/09/2026",
       socios: "Marcelo / Marcelo / Gil",
       dataEntrada: "2026-07-28",
       valorCompra: 56000,
-      vendaPrevista: 68000, // Edite aqui o valor pretendido de venda.
+      vendaPrevista: 0, // Edite aqui o valor pretendido de venda.
 
       // Serviços e despesas deste veículo. Para adicionar, copie uma linha.
       custos: [
@@ -116,6 +116,17 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 63900,
       custos: [
         { descricao: "Descrição do serviço", valor: 0, data: "" },
+      ],
+    },{
+      id: "RenegadeLGTD",
+      nome: "Renegade Longitude 2017",
+      socios: "Marcelo/Gil",
+      dataEntrada: "2026-09-15",
+      valorCompra: 60000,
+      vendaPrevista: 65000,
+      custos: [
+        { descricao: "IPVA + Licenciamento", valor: 1945.25, data: "2026-09-15" },
+        { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-15" },
       ],
     },  
   ],  
