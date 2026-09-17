@@ -111,7 +111,7 @@ window.DADOS_MAMAOCAR = {
       {
       id: "HBVinteX",
       nome: "HB20X 1.6 2015",
-      socios: "MARCELO",
+      socios: "MARCELO/MARCELO/GIL",
       dataEntrada: "2026-09-15",
       valorCompra: 55200,
       vendaPrevista: 63900,
@@ -121,13 +121,14 @@ window.DADOS_MAMAOCAR = {
     },{
       id: "RenegadeLGTD",
       nome: "Renegade Longitude 2017",
-      socios: "Marcelo/Gil",
+      socios: "Marcelo",
       dataEntrada: "2026-09-15",
       valorCompra: 60000,
       vendaPrevista: 65000,
       custos: [
         { descricao: "IPVA + Licenciamento", valor: 1945.25, data: "2026-09-15" },
         { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-15" },
+        { descricao: "Gasolina GIL", valor: 50, data: "2026-09-17" },
       ],
     },  
   ],  
