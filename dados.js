@@ -115,7 +115,7 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 55200,
       vendaPrevista: 63900,
       custos: [
-        { descricao: "Descrição do serviço", valor: 0, data: "" },
+        { descricao: "adson pintura", valor: 350, data: "2026-09-17" },
       ],
     },{
       id: "RenegadeLGTD",
