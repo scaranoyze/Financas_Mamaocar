@@ -106,6 +106,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "som (retirada)", valor: 50, data: "2026-09-11" },
         { descricao: "Marco Peças (suspensão)", valor: 200, data: "2026-09-15" },
         { descricao: "Mao de obra (suspensão mamao)", valor: 200, data: "2026-09-15" },
+        { descricao: "Bomba de alta baixa (Material)", valor: 1200, data: "2026-09-18" },
       ],
     },
       {
@@ -117,6 +118,7 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 63900,
       custos: [
         { descricao: "adson pintura", valor: 350, data: "2026-09-17" },
+        { descricao: "gasolina", valor: 50, data: "2026-09-18" },
       ],
     },{
       id: "RenegadeLGTD",
@@ -129,6 +131,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "IPVA + Licenciamento", valor: 1945.25, data: "2026-09-15" },
         { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-15" },
         { descricao: "Gasolina GIL", valor: 50, data: "2026-09-17" },
+        { descricao: "Peça do HB20x azul 290 a peça(retorno). Mais 380 Mao de obra Jeep (sensor ABS)", valor: 670, data: "2026-09-18" },
       ],
     },  
   ],  
