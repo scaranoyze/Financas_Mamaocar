@@ -107,6 +107,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Marco Peças (suspensão)", valor: 200, data: "2026-09-15" },
         { descricao: "Mao de obra (suspensão mamao)", valor: 200, data: "2026-09-15" },
         { descricao: "Bomba de alta baixa (Material)", valor: 1200, data: "2026-09-18" },
+        { descricao: "JP manuntenção", valor: 1000, data: "2026-09-22" },
       ],
     },
       {
