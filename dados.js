@@ -119,6 +119,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Mao de obra (suspensão mamao)", valor: 200, data: "2026-09-15" },
         { descricao: "Bomba de alta baixa (Material)", valor: 1200, data: "2026-09-18" },
         { descricao: "JP manuntenção", valor: 1000, data: "2026-09-22" },
+        { descricao: "gasolina", valor: 70, data: "2026-09-23" },
+        { descricao: "bico injetores", valor: 810, data: "2026-09-23" },
       ],
     },
       {
@@ -132,6 +134,9 @@ window.DADOS_MAMAOCAR = {
         { descricao: "adson pintura", valor: 350, data: "2026-09-17" },
         { descricao: "gasolina", valor: 50, data: "2026-09-18" },
         { descricao: "risadinha (paralama)", valor: 50, data: "2026-09-23" },
+        { descricao: "gasolina (mamao fotos)", valor: 50, data: "2026-09-23" },
+        { descricao: "Carranca Polimento", valor: 100, data: "2026-09-23" },
+        
       ],
     },{
       id: "RenegadeLGTD",
