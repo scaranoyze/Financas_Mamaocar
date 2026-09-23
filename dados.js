@@ -96,7 +96,6 @@ window.DADOS_MAMAOCAR = {
         { descricao: "almoço", valor: 277, data: "2026-09-23" },
         { descricao: "entregar carro", valor: 100, data: "2026-09-23" },
         { descricao: "Vistoria", valor: 360, data: "2026-09-23" },
-        { descricao: "Taxa desalienação", valor: 91, data: "2026-09-23" },
         { descricao: "ATPV", valor: 80, data: "2026-09-23" },
         { descricao: "Selo", valor: 22, data: "2026-09-23" },
         { descricao: "selo", valor: 22, data: "2026-09-23" },
