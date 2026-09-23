@@ -90,6 +90,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Higienização", valor: 150, data: "2026-09-08" },
         { descricao: "Bateria Luciano", valor: 350, data: "2026-09-10" },
         { descricao: "gasolina (fechar negociação)", valor: 50, data: "2026-09-17" },
+        { descricao: "gasolina (amarok)", valor: 150, data: "2026-09-23" },
       ],
     },
     
