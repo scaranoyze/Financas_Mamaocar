@@ -120,6 +120,7 @@ window.DADOS_MAMAOCAR = {
       custos: [
         { descricao: "adson pintura", valor: 350, data: "2026-09-17" },
         { descricao: "gasolina", valor: 50, data: "2026-09-18" },
+        { descricao: "risadinha (paralama)", valor: 50, data: "2026-09-23" },
       ],
     },{
       id: "RenegadeLGTD",
