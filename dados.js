@@ -156,6 +156,17 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-24" },
       ],
     },
+  ],{
+      id: "CitroenC3",
+      nome: "Citroen C3 2018 1.6 Action",
+      socios: "Marcelo",
+      dataEntrada: "2026-09-24",
+      valorCompra: 42400,
+      vendaPrevista: 52000,
+      custos: [
+        { descricao: "", valor: 0, data: "" },
+      ],
+    },
   ],
 
 
