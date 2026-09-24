@@ -328,6 +328,21 @@ p {
   font-weight:400;
 }
 
+/* Somente a palavra VENDIDO fica vermelha. */
+.vendido {
+  color:#e53935;
+  font-weight:800;
+}
+
+/* Sobrescreve o estilo genérico de .vehicle span para o VENDIDO não quebrar linha. */
+.vehicle .vendido {
+  display:inline;
+  color:#e53935;
+  font-size:inherit;
+  font-weight:800;
+  margin:0;
+}
+
 .vehicle small {
   font-size:13px;
   color:#3d587b;
@@ -770,4 +785,3 @@ input:focus,select:focus {
   }
 
 }
-
