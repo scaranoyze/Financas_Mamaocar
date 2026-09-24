@@ -103,8 +103,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "documento hb20x azul 2015 (2 crlvs)", valor: 50, data: "2026-09-23" },
       ],
     },
-    
-      {
+
+    {
       id: "Upi-2016-cinza",
       nome: "Upi 2016 cinza",
       socios: "Marcelo",
@@ -123,7 +123,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "bico injetores", valor: 810, data: "2026-09-23" },
       ],
     },
-      {
+    {
       id: "HBVinteX",
       nome: "HB20X 1.6 2015",
       socios: "MARCELO/MARCELO/GIL",
@@ -136,7 +136,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "risadinha (paralama)", valor: 50, data: "2026-09-23" },
         { descricao: "gasolina (mamao fotos)", valor: 50, data: "2026-09-23" },
         { descricao: "Carranca Polimento", valor: 100, data: "2026-09-23" },
-        
+
       ],
     },{
       id: "RenegadeLGTD",
@@ -153,9 +153,9 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Peça Suspensão", valor: 338, data: "2026-09-22" },
         { descricao: "Mao de obra (suspensão)", valor: 120, data: "2026-09-22" },
       ],
-    },  
-  ],  
-  
+    },
+  ],
+
 
   // 3. CAIXA PARADO
   caixa: {
