@@ -16,6 +16,17 @@ function escapar(texto) {
   return String(texto ?? '').replace(/[&<>"']/g, (caractere) => caracteres[caractere]);
 }
 
+// Destaca apenas a palavra "VENDIDO" quando ela aparece no início do nome.
+// O restante do nome continua escapado normalmente por segurança.
+function nomeVeiculoFormatado(nome) {
+  const nomeSeguro = escapar(nome);
+
+  return nomeSeguro.replace(
+    /^VENDIDO\b/i,
+    '<span class="vendido">VENDIDO</span>'
+  );
+}
+
 // Os valores são editados em reais, mas calculados em centavos para evitar
 // pequenas diferenças de arredondamento em somas com casas decimais.
 function centavos(valor, campo, permitirNegativo = false) {
@@ -141,7 +152,7 @@ function detalhesVeiculo(veiculo) {
     <section class="panel">
       <div class="detailtitle">
         <div>
-          <h2>${escapar(veiculo.nome)}</h2>
+          <h2>${nomeVeiculoFormatado(veiculo.nome)}</h2>
           <div class="sub">${escapar(veiculo.socios)} · ${veiculo.dataEntrada ? `Entrada em ${dataFormatada(veiculo.dataEntrada)}` : 'Data de entrada não informada'}</div>
         </div>
       </div>
@@ -176,7 +187,7 @@ function mostrarVeiculos() {
   const lista = dados.veiculos.map((veiculo) => `
     <button type="button" class="vehicle ${veiculo.id === atual?.id ? 'selected' : ''}"
             data-select="${escapar(veiculo.id)}" aria-pressed="${veiculo.id === atual?.id}">
-      <strong>${escapar(veiculo.nome)}</strong>
+      <strong>${nomeVeiculoFormatado(veiculo.nome)}</strong>
       <span>${escapar(veiculo.socios)}</span>
       <small>Investido <b>${moeda(totalInvestido(veiculo))}</b></small>
     </button>`).join('');
