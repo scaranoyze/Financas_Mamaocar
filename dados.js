@@ -152,6 +152,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Peça do HB20x azul 290 a peça(retorno). Mais 380 Mao de obra Jeep (sensor ABS)", valor: 670, data: "2026-09-18" },
         { descricao: "Peça Suspensão", valor: 338, data: "2026-09-22" },
         { descricao: "Mao de obra (suspensão)", valor: 120, data: "2026-09-22" },
+        { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-24" },
       ],
     },
   ],
