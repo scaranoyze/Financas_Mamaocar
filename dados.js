@@ -155,8 +155,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Mao de obra (suspensão)", valor: 120, data: "2026-09-22" },
         { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-24" },
       ],
-    },
-  ],{
+    },{
       id: "CitroenC3",
       nome: "Citroen C3 2018 1.6 Action",
       socios: "Marcelo",
@@ -168,7 +167,7 @@ window.DADOS_MAMAOCAR = {
       ],
     },
   ],
-
+  ], 
 
   // 3. CAIXA PARADO
   caixa: {
