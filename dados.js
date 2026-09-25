@@ -166,6 +166,17 @@ window.DADOS_MAMAOCAR = {
         { descricao: "1", valor: 0, data: "2026-09-25" },
       ],
     },
+    {
+      id: "FordKaSE",
+      nome: "Ford Ka Se",
+      socios: "Marcelo",
+      dataEntrada: "2026-09-25",
+      valorCompra: 26245,
+      vendaPrevista: 43700,
+      custos: [
+        { descricao: "1", valor: 0, data: "2026-09-25" },
+      ],
+    },
   ], 
 
   // 3. CAIXA PARADO
