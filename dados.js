@@ -44,6 +44,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Gasolina", valor: 50, data: "2026-08-11" },
         { descricao: "Fita dupla face", valor: 40, data: "2026-08-11" },
         { descricao: "Jorge som Marcelo", valor: 50, data: "2026-08-12" },
+        { descricao: "Roquinho (vazamento de oleo)", valor: 370, data: "2026-09-25" },
+        { descricao: "Gasolina (Gil)", valor: 50, data: "2026-09-25" },
       ],
     },
 
