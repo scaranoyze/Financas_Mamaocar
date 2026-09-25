@@ -176,7 +176,7 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 26245,
       vendaPrevista: 43700,
       custos: [
-        { descricao: "1", valor: 0, data: "2026-09-25" },
+        { descricao: "ATPV + Selo", valor: 102, data: "2026-09-25" },
       ],
     },
   ], 
