@@ -163,7 +163,7 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 42400,
       vendaPrevista: 52000,
       custos: [
-        { descricao: "1", valor: 0, data: "2026-09-25" },
+        { descricao: "Gasolina (levar para cegonha)", valor: 50, data: "2026-09-25" },
       ],
     },
     {
