@@ -122,7 +122,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Bomba de alta baixa (Material)", valor: 1200, data: "2026-09-18" },
         { descricao: "JP manuntenção", valor: 1000, data: "2026-09-22" },
         { descricao: "gasolina", valor: 70, data: "2026-09-23" },
-        { descricao: "bico injetores", valor: 810, data: "2026-09-23" },
+        { descricao: "bico injetores", valor: 1300, data: "2026-09-30" },
       ],
     },
     {
