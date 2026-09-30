@@ -178,6 +178,7 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 43700,
       custos: [
         { descricao: "ATPV + Selo", valor: 102, data: "2026-09-25" },
+        { descricao: "transferencia (mamão)", valor: 871, data: "2026-09-30" },
       ],
     },
   ], 
