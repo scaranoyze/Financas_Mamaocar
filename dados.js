@@ -139,9 +139,11 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina (mamao fotos)", valor: 50, data: "2026-09-23" },
         { descricao: "Carranca Polimento", valor: 100, data: "2026-09-23" },
         { descricao: "MAO DE OBRA ROQUINHO", valor: 200, data: "2026-09-24" },
-
+        { descricao: "caixa parado", valor: 500, data: "2026-10-01" },
       ],
-    },{
+    },
+    
+    {
       id: "RenegadeLGTD",
       nome: "Renegade Longitude 2017",
       socios: "Marcelo",
