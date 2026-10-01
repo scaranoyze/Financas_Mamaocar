@@ -166,7 +166,7 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 52000,
       custos: [
         { descricao: "Gasolina (levar para cegonha)", valor: 50, data: "2026-09-25" },
-        { descricao: "Adson (pintura)", valor: 1300, data: "2026-09-29" },
+        { descricao: "Adson (pintura)", valor: 2500, data: "2026-09-29" },
       ],
     },
     {
