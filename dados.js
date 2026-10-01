@@ -180,6 +180,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "ATPV + Selo", valor: 102, data: "2026-09-25" },
         { descricao: "transferencia (mamão)", valor: 871, data: "2026-09-30" },
         { descricao: "propaganda (outubro)", valor: 500, data: "2026-09-30" },
+        { descricao: "adesão sistema renave", valor: 300, data: "2026-10-01" },
+        { descricao: "certificado digital 1 ano para credenciar no sistema renave", valor: 199, data: "2026-10-01" },
       ],
     },
   ], 
