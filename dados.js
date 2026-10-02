@@ -186,6 +186,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "adesão sistema renave", valor: 300, data: "2026-10-01" },
         { descricao: "certificado digital 1 ano para credenciar no sistema renave", valor: 199, data: "2026-10-01" },
         { descricao: "caixa parado ", valor: 1000, data: "2026-10-01" },
+        { descricao: "cabeçote ", valor: 2400, data: "2026-10-02" },
+        { descricao: "gasolina  ", valor: 70, data: "2026-10-02" },
       ],
     },
   ], 
