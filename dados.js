@@ -194,6 +194,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Pintura tom (porta mala)  ", valor: 200, data: "2026-10-05" },
         { descricao: "Rene  ", valor: 190, data: "2026-10-06" },
         { descricao: "Tom  ", valor: 150, data: "2026-10-06" },
+        { descricao: "Carlota  ", valor: 100, data: "2026-10-06" },
       ],
     },
   ], 
