@@ -141,6 +141,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "MAO DE OBRA ROQUINHO", valor: 200, data: "2026-09-24" },
         { descricao: "caixa parado", valor: 500, data: "2026-10-01" },
         { descricao: "lampada", valor: 15, data: "2026-10-05" },
+        { descricao: "manunteção da roda (tom)", valor: 850, data: "2026-10-06" },
       ],
     },
     
@@ -190,6 +191,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "cabeçote ", valor: 2400, data: "2026-10-02" },
         { descricao: "gasolina  ", valor: 70, data: "2026-10-02" },
         { descricao: "Pintura tom (porta mala)  ", valor: 200, data: "2026-10-05" },
+        { descricao: "Rene  ", valor: 190, data: "2026-10-06" },
       ],
     },
   ], 
