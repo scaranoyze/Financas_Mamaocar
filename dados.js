@@ -143,6 +143,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "lampada", valor: 15, data: "2026-10-05" },
         { descricao: "manunteção da roda (tom)", valor: 850, data: "2026-10-06" },
         { descricao: "Limpeza de roda  ", valor: 40, data: "2026-10-06" },
+        { descricao: "Pintura do parachoque  ", valor: 300, data: "2026-10-07" }
+        { descricao: "Gasolina  ", valor: 50, data: "2026-10-07" }
       ],
     },
     
