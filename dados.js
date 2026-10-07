@@ -199,6 +199,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Tom  ", valor: 150, data: "2026-10-06" },
         { descricao: "Carlota  ", valor: 100, data: "2026-10-06" },
         { descricao: "Polimento (carranca)  ", valor: 300, data: "2026-10-07" },
+        { descricao: "Caixa parado  ", valor: 1000, data: "2026-10-07" },
       ],
     },
   ], 
