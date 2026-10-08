@@ -177,6 +177,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Adson (pintura)", valor: 2500, data: "2026-09-29" },
         { descricao: "REMOÇÃO DAS CAMERAS", valor: 150, data: "2026-10-02" },
         { descricao: "aditivo (marcos)", valor: 30, data: "2026-10-08" },
+        { descricao: "Polimento", valor: 250, data: "2026-10-08" },
+        { descricao: "gasolina", valor: 50, data: "2026-10-08" },
         
       ],
     },
