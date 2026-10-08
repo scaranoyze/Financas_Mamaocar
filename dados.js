@@ -176,6 +176,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Gasolina (levar para cegonha)", valor: 50, data: "2026-09-25" },
         { descricao: "Adson (pintura)", valor: 2500, data: "2026-09-29" },
         { descricao: "REMOÇÃO DAS CAMERAS", valor: 150, data: "2026-10-02" },
+        { descricao: "aditivo (marcos)", valor: 30, data: "2026-10-08" },
+        
       ],
     },
     {
