@@ -123,6 +123,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "JP manuntenção", valor: 1000, data: "2026-09-22" },
         { descricao: "gasolina", valor: 70, data: "2026-09-23" },
         { descricao: "bico injetores", valor: 1300, data: "2026-09-30" },
+        { descricao: "gasolina", valor: 50, data: "2026-10-09" },
       ],
     },
     {
@@ -179,6 +180,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "aditivo (marcos)", valor: 30, data: "2026-10-08" },
         { descricao: "Polimento", valor: 250, data: "2026-10-08" },
         { descricao: "gasolina", valor: 50, data: "2026-10-08" },
+        { descricao: "carranca", valor: 200, data: "2026-10-09" },
         
       ],
     },
