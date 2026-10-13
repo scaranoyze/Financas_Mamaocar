@@ -46,6 +46,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Jorge som Marcelo", valor: 50, data: "2026-08-12" },
         { descricao: "Roquinho (vazamento de oleo)", valor: 370, data: "2026-09-25" },
         { descricao: "Gasolina (Gil)", valor: 50, data: "2026-09-25" },
+        { descricao: "Gasolina (fotos)", valor: 50, data: "2026-10-13" },
       ],
     },
 
@@ -206,6 +207,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Carlota  ", valor: 100, data: "2026-10-06" },
         { descricao: "Polimento (carranca)  ", valor: 300, data: "2026-10-07" },
         { descricao: "Caixa parado  ", valor: 1000, data: "2026-10-07" },
+        { descricao: "referente a olhar o carro s10 em uma troca", valor: 50, data: "2026-10-13" },
       ],
     },
   ], 
