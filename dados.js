@@ -182,7 +182,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Polimento", valor: 250, data: "2026-10-08" },
         { descricao: "gasolina", valor: 50, data: "2026-10-08" },
         { descricao: "carranca", valor: 200, data: "2026-10-09" },
-        { descricao: "tampa do reservatorio da agua do esguicho", valor: 25, data: "2026-10-14" },
+        { descricao: "tampa do reservatorio da agua do esguicho", valor: 20, data: "2026-10-14" },
         
       ],
     },
@@ -209,6 +209,16 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Polimento (carranca)  ", valor: 300, data: "2026-10-07" },
         { descricao: "Caixa parado  ", valor: 1000, data: "2026-10-07" },
         { descricao: "referente a olhar o carro s10 em uma troca", valor: 50, data: "2026-10-13" },
+      ],
+    },{
+      id: "Palio",
+      nome: "Palio 1.6 Dualogic Sporting 2014",
+      socios: "Marcelo",
+      dataEntrada: "2026-10-09",
+      valorCompra: 35000,
+      vendaPrevista: 38700,
+      custos: [
+        { descricao: ".", valor: , data: "2026-10-09" },
       ],
     },
   ], 
