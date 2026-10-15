@@ -219,6 +219,7 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 38700,
       custos: [
         { descricao: "gasolina ", valor: 100, data: "2026-10-15" },
+        { descricao: "goiano (vidro) ", valor: 100, data: "2026-10-15" },
       ],
     },
   ], 
