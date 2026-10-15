@@ -153,7 +153,7 @@ window.DADOS_MAMAOCAR = {
     
     {
       id: "RenegadeLGTD",
-      nome: "Renegade Longitude 2017",
+      nome: "VENDIDO Renegade Longitude 2017",
       socios: "Marcelo",
       dataEntrada: "2026-09-15",
       valorCompra: 60000,
