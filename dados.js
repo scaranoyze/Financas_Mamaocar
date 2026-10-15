@@ -218,7 +218,7 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 35000,
       vendaPrevista: 38700,
       custos: [
-        { descricao: ".", valor: , data: "2026-10-09" },
+        { descricao: "gasolina ", valor: 100, data: "2026-10-15" },
       ],
     },
   ], 
