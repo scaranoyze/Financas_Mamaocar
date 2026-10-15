@@ -183,6 +183,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina", valor: 50, data: "2026-10-08" },
         { descricao: "carranca", valor: 200, data: "2026-10-09" },
         { descricao: "tampa do reservatorio da agua do esguicho", valor: 20, data: "2026-10-14" },
+        { descricao: "gasolina (fotos)", valor: 50, data: "2026-10-15" },
         
       ],
     },
