@@ -25,7 +25,7 @@ window.DADOS_MAMAOCAR = {
       socios: "Marcelo / Nel",
       dataEntrada: "2026-07-24",
       valorCompra: 58000,
-      vendaPrevista: 70000, // Edite aqui o valor pretendido de venda.
+      vendaPrevista: 72000, // Edite aqui o valor pretendido de venda.
 
       // Serviços e despesas deste veículo. Para adicionar, copie uma linha.
       custos: [
