@@ -47,6 +47,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Roquinho (vazamento de oleo)", valor: 370, data: "2026-09-25" },
         { descricao: "Gasolina (Gil)", valor: 50, data: "2026-09-25" },
         { descricao: "Gasolina (fotos)", valor: 50, data: "2026-10-13" },
+        { descricao: "Gasolina (buscar nel)", valor: 40, data: "2026-10-16" },
       ],
     },
 
@@ -210,6 +211,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Polimento (carranca)  ", valor: 300, data: "2026-10-07" },
         { descricao: "Caixa parado  ", valor: 1000, data: "2026-10-07" },
         { descricao: "referente a olhar o carro s10 em uma troca", valor: 50, data: "2026-10-13" },
+        { descricao: "almoço", valor: 120, data: "2026-10-16" },
       ],
     },{
       id: "Palio",
@@ -223,6 +225,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina ", valor: 100, data: "2026-10-15" },
         { descricao: "goiano (vidro) ", valor: 100, data: "2026-10-15" },
         { descricao: "JP Eletrica ", valor: 535, data: "2026-10-15" },
+        { descricao: "Dois spray Gil ", valor: 34, data: "2026-10-15" },
+        { descricao: "Higienização (carranca) ", valor: 300, data: "2026-10-16" },
       ],
     },
   ], 
