@@ -219,6 +219,7 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 35000,
       vendaPrevista: 38700,
       custos: [
+        { descricao: "gasolina (jp eletrica) ", valor: 50, data: "" },
         { descricao: "gasolina ", valor: 100, data: "2026-10-15" },
         { descricao: "goiano (vidro) ", valor: 100, data: "2026-10-15" },
         { descricao: "JP Eletrica ", valor: 535, data: "2026-10-15" },
