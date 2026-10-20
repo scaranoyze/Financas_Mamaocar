@@ -214,6 +214,9 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Caixa parado  ", valor: 1000, data: "2026-10-07" },
         { descricao: "referente a olhar o carro s10 em uma troca", valor: 50, data: "2026-10-13" },
         { descricao: "almoço", valor: 120, data: "2026-10-16" },
+        { descricao: "GASOLINA AMOSTRAR AO CLIENTE E VOLTAR PARA ITABUNA", valor: 150, data: "2026-10-17" },
+        
+        
       ],
     },{
       id: "Palio",
