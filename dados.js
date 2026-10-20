@@ -21,7 +21,7 @@ window.DADOS_MAMAOCAR = {
     // JEEP RENEGADE 2019
     {
       id: "r19", // Identificador único: não repita em outro veículo.
-      nome: "Jeep Renegade 2019",
+      nome: "VENDIDO Jeep Renegade 2019",
       socios: "Marcelo / Nel",
       dataEntrada: "2026-07-24",
       valorCompra: 58000,
