@@ -148,6 +148,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Limpeza de roda  ", valor: 40, data: "2026-10-06" },
         { descricao: "Pintura parachoque  ", valor: 300, data: "2026-10-07" },
         { descricao: "Gasolina  ", valor: 50, data: "2026-10-07" },
+        { descricao: "Paleta  ", valor: 20, data: "2026-10-20" },
 
       ],
     },
@@ -185,7 +186,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "carranca", valor: 200, data: "2026-10-09" },
         { descricao: "tampa do reservatorio da agua do esguicho", valor: 20, data: "2026-10-14" },
         { descricao: "gasolina (fotos)", valor: 50, data: "2026-10-15" },
-        
+        { descricao: "gasolina (mostrar carro mamão))", valor: 50, data: "2026-10-20" },
+        { descricao: "buscar dinheiro em nel (mamão)", valor: 30, data: "2026-10-20" },
       ],
     },
     {
