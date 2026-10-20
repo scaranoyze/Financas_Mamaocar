@@ -194,7 +194,7 @@ window.DADOS_MAMAOCAR = {
       socios: "Marcelo",
       dataEntrada: "2026-09-25",
       valorCompra: 26245,
-      vendaPrevista: 43700,
+      vendaPrevista: 42700,
       custos: [
         { descricao: "ATPV + Selo", valor: 102, data: "2026-09-25" },
         { descricao: "transferencia (mamão)", valor: 871, data: "2026-09-30" },
