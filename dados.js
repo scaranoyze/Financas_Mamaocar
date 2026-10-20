@@ -190,7 +190,7 @@ window.DADOS_MAMAOCAR = {
     },
     {
       id: "FordKaSE",
-      nome: "Ford Ka Se",
+      nome: "VENDIDO Ford Ka Se",
       socios: "Marcelo",
       dataEntrada: "2026-09-25",
       valorCompra: 26245,
