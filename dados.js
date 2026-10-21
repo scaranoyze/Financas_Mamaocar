@@ -149,6 +149,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Pintura parachoque  ", valor: 300, data: "2026-10-07" },
         { descricao: "Gasolina  ", valor: 50, data: "2026-10-07" },
         { descricao: "Paleta  ", valor: 20, data: "2026-10-20" },
+        { descricao: "furo do pneu  ", valor: 20, data: "2026-10-21" },
 
       ],
     },
