@@ -230,6 +230,7 @@ window.DADOS_MAMAOCAR = {
       custos: [
         { descricao: "PARACHOQUE", valor: 200, data: "2026-10-22" },
         { descricao: "RENE", valor: 130, data: "2026-10-22" },
+        { descricao: "ADSON", valor: 1200, data: "2026-10-22" },
         
       ],
     },{
@@ -246,6 +247,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "JP Eletrica ", valor: 535, data: "2026-10-15" },
         { descricao: "Dois spray Gil ", valor: 34, data: "2026-10-15" },
         { descricao: "Higienização (carranca) ", valor: 300, data: "2026-10-16" },
+        { descricao: "Bateria ", valor: 350, data: "2026-10-22" },
       ],
     },
   ], 
