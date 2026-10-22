@@ -219,6 +219,19 @@ window.DADOS_MAMAOCAR = {
         
         
       ],
+    },
+    {
+      id: "argoprata",
+      nome: "Argo 1.0  Prata",
+      socios: "Marcelo",
+      dataEntrada: "2026-10-22",
+      valorCompra: 51000,
+      vendaPrevista: 59900,
+      custos: [
+        { descricao: "PARACHOQUE", valor: 200, data: "2026-10-22" },
+        { descricao: "RENE", valor: 130, data: "2026-10-22" },
+        
+      ],
     },{
       id: "Palio",
       nome: "Palio 1.6 Dualogic Sporting 2014",
