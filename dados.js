@@ -126,6 +126,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina", valor: 70, data: "2026-09-23" },
         { descricao: "bico injetores", valor: 1300, data: "2026-09-30" },
         { descricao: "gasolina", valor: 50, data: "2026-10-09" },
+        { descricao: "gasolina", valor: 60, data: "2026-10-23" },
       ],
     },
     {
