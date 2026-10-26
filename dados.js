@@ -232,6 +232,19 @@ window.DADOS_MAMAOCAR = {
         { descricao: "PARACHOQUE", valor: 200, data: "2026-10-22" },
         { descricao: "RENE", valor: 130, data: "2026-10-22" },
         { descricao: "ADSON", valor: 1200, data: "2026-10-22" },
+        { descricao: "propaganda", valor: 700, data: "2026-10-26" },
+        
+      ],
+    },
+    {
+      id: "foxpkm",
+      nome: "Fox 2017 Prata",
+      socios: "Marcelo",
+      dataEntrada: "2026-10-26",
+      valorCompra: 40650,
+      vendaPrevista: 60000,
+      custos: [
+        { descricao: "criação", valor: 1, data: "2026-10-26" },
         
       ],
     },{
