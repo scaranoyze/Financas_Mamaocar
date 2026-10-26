@@ -173,7 +173,7 @@ window.DADOS_MAMAOCAR = {
       ],
     },{
       id: "CitroenC3",
-      nome: "Citroen C3 2018 1.6 Action",
+      nome: "VENDIDO Citroen C3 2018 1.6 Action",
       socios: "Marcelo",
       dataEntrada: "2026-09-24",
       valorCompra: 42400,
@@ -190,6 +190,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina (fotos)", valor: 50, data: "2026-10-15" },
         { descricao: "gasolina (mostrar carro mamão))", valor: 50, data: "2026-10-20" },
         { descricao: "buscar dinheiro em nel (mamão)", valor: 30, data: "2026-10-20" },
+        { descricao: "gasolina pra cliente", valor: 100, data: "2026-10-26" },
       ],
     },
     {
