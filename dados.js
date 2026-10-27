@@ -248,6 +248,18 @@ window.DADOS_MAMAOCAR = {
         { descricao: "criação", valor: 1, data: "2026-10-26" },
         
       ],
+    },
+    {
+      id: "sienagrand",
+      nome: "Grand Siena 2017",
+      socios: "Marcelo",
+      dataEntrada: "2026-10-27",
+      valorCompra: 38000,
+      vendaPrevista: 44900,
+      custos: [
+        { descricao: "criação", valor: 1, data: "2026-10-26" },
+        
+      ],
     },{
       id: "Palio",
       nome: "Palio 1.6 Dualogic Sporting 2014",
