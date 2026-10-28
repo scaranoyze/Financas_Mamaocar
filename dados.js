@@ -157,7 +157,7 @@ window.DADOS_MAMAOCAR = {
     
     {
       id: "RenegadeLGTD",
-      nome: "VENDIDO Renegade Longitude 2017",
+      nome: "VENDIDO Renegade Longitude 2017 DATA: 09/10/2026",
       socios: "Marcelo",
       dataEntrada: "2026-09-15",
       valorCompra: 60000,
@@ -173,7 +173,7 @@ window.DADOS_MAMAOCAR = {
       ],
     },{
       id: "CitroenC3",
-      nome: "VENDIDO Citroen C3 2018 1.6 Action",
+      nome: "VENDIDO Citroen C3 2018 1.6 Action DATA: 26/10/2026",
       socios: "Marcelo",
       dataEntrada: "2026-09-24",
       valorCompra: 42400,
@@ -195,7 +195,7 @@ window.DADOS_MAMAOCAR = {
     },
     {
       id: "FordKaSE",
-      nome: "VENDIDO Ford Ka Se",
+      nome: "VENDIDO Ford Ka Se DATA: 17/10/2026",
       socios: "Marcelo",
       dataEntrada: "2026-09-25",
       valorCompra: 26245,
@@ -243,7 +243,7 @@ window.DADOS_MAMAOCAR = {
       socios: "Marcelo",
       dataEntrada: "2026-10-26",
       valorCompra: 40650,
-      vendaPrevista: 60000,
+      vendaPrevista: 48900,
       custos: [
         { descricao: "criação", valor: 1, data: "2026-10-26" },
         
@@ -257,7 +257,10 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 38000,
       vendaPrevista: 44900,
       custos: [
-        { descricao: "criação", valor: 1, data: "2026-10-26" },
+        { descricao: "grade do grand siena", valor: 256, data: "2026-10-28" },
+        { descricao: "lampada", valor: 10, data: "2026-10-27" },
+        { descricao: "farol", valor: 30, data: "2026-10-28" },
+        
         
       ],
     },{
@@ -275,6 +278,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Dois spray Gil ", valor: 34, data: "2026-10-15" },
         { descricao: "Higienização (carranca) ", valor: 300, data: "2026-10-16" },
         { descricao: "Bateria ", valor: 340, data: "2026-10-22" },
+        { descricao: "Difusor de ar ", valor: 140, data: "2026-10-27" },
       ],
     },
   ], 
