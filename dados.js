@@ -260,6 +260,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "grade do grand siena", valor: 256, data: "2026-10-28" },
         { descricao: "lampada", valor: 10, data: "2026-10-27" },
         { descricao: "farol", valor: 30, data: "2026-10-28" },
+        { descricao: "cobrança em canavieiras", valor: 134, data: "2026-10-28" },
+        { descricao: "Polimento ", valor: 180, data: "2026-10-28" },
         
         
       ],
