@@ -249,6 +249,7 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 48900,
       custos: [
         { descricao: "gasolina", valor: 50, data: "2026-10-29" },
+        { descricao: "almoço + dute + cartorio do ford ka coaraci", valor: 126, data: "2026-10-29" },
         
       ],
     },
