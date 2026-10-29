@@ -251,7 +251,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina", valor: 50, data: "2026-10-29" },
         { descricao: "almoço + dute + cartorio do ford ka coaraci", valor: 126, data: "2026-10-29" },
         { descricao: "lampada ", valor: 30, data: "2026-10-29" },
-        
+        { descricao: "lampada ", valor: 50, data: "2026-10-29" },
       ],
     },
     {
