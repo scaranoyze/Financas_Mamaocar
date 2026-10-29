@@ -127,6 +127,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "bico injetores", valor: 1300, data: "2026-09-30" },
         { descricao: "gasolina", valor: 50, data: "2026-10-09" },
         { descricao: "gasolina", valor: 60, data: "2026-10-23" },
+        { descricao: "pintura parachoque", valor: 1000, data: "2026-10-29" },
       ],
     },
     {
@@ -234,6 +235,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "RENE", valor: 130, data: "2026-10-22" },
         { descricao: "ADSON", valor: 1200, data: "2026-10-22" },
         { descricao: "propaganda", valor: 700, data: "2026-10-26" },
+        { descricao: "lampada jorge som ", valor: 30, data: "2026-10-29" },
+        { descricao: "para choque", valor: 50, data: "2026-10-29" },
         
       ],
     },
@@ -245,7 +248,7 @@ window.DADOS_MAMAOCAR = {
       valorCompra: 40650,
       vendaPrevista: 48900,
       custos: [
-        { descricao: "criação", valor: 1, data: "2026-10-26" },
+        { descricao: "gasolina", valor: 50, data: "2026-10-29" },
         
       ],
     },
@@ -260,8 +263,9 @@ window.DADOS_MAMAOCAR = {
         { descricao: "grade do grand siena", valor: 256, data: "2026-10-28" },
         { descricao: "lampada", valor: 10, data: "2026-10-27" },
         { descricao: "farol", valor: 30, data: "2026-10-28" },
-        { descricao: "cobrança em canavieiras", valor: 134, data: "2026-10-28" },
+        { descricao: "cobrança em canavieiras", valor: 234, data: "2026-10-28" },
         { descricao: "Polimento ", valor: 180, data: "2026-10-28" },
+       
         
         
       ],
