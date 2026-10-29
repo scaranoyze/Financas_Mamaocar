@@ -285,6 +285,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Higienização (carranca) ", valor: 300, data: "2026-10-16" },
         { descricao: "Bateria ", valor: 340, data: "2026-10-22" },
         { descricao: "Difusor de ar ", valor: 140, data: "2026-10-27" },
+        { descricao: "martelinho de ouro ", valor: 1000, data: "2026-10-29" },
       ],
     },
   ], 
