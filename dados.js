@@ -274,6 +274,20 @@ window.DADOS_MAMAOCAR = {
         
         
       ],
+    },
+        {
+      id: "renggde",
+      nome: "Renegade Limited 2018",
+      socios: "Marcelo",
+      dataEntrada: "2026-11-04",
+      valorCompra: 57500,
+      vendaPrevista: 72900,
+      custos: [
+        { descricao: "caixa parado ", valor: 1000, data: "2026-11-04" },
+       
+        
+        
+      ],
     },{
       id: "Palio",
       nome: "Palio 1.6 Dualogic Sporting 2014",
