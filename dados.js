@@ -259,7 +259,7 @@ window.DADOS_MAMAOCAR = {
     },
     {
       id: "sienagrand",
-      nome: "Grand Siena 2017",
+      nome: "VENDIDO Grand Siena 2017 DATA: 03/11/2026",
       socios: "Marcelo",
       dataEntrada: "2026-10-27",
       valorCompra: 38000,
@@ -284,6 +284,7 @@ window.DADOS_MAMAOCAR = {
       vendaPrevista: 72900,
       custos: [
         { descricao: "caixa parado ", valor: 1000, data: "2026-11-04" },
+        { descricao: "juros do nubank ", valor: 400, data: "2026-11-05" },
        
         
         
