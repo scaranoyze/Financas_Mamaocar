@@ -129,6 +129,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "gasolina", valor: 60, data: "2026-10-23" },
         { descricao: "pintura parachoque", valor: 1000, data: "2026-10-29" },
         { descricao: "limpeza farol", valor: 150, data: "2026-11-04" },
+        { descricao: "gasolina ", valor: 50, data: "2026-11-05" },
       ],
     },
     {
