@@ -286,6 +286,7 @@ window.DADOS_MAMAOCAR = {
       custos: [
         { descricao: "caixa parado ", valor: 1000, data: "2026-11-04" },
         { descricao: "juros do nubank ", valor: 400, data: "2026-11-05" },
+        { descricao: "Fox Manutenção itacare Isaura (caixa de direção, abs, farol, arranque, ar condicionado) ", valor: 2238, data: "2026-11-06" },
        
         
         
