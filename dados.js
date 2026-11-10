@@ -130,6 +130,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "pintura parachoque", valor: 1000, data: "2026-10-29" },
         { descricao: "limpeza farol", valor: 150, data: "2026-11-04" },
         { descricao: "gasolina ", valor: 50, data: "2026-11-05" },
+        { descricao: "carranca polimento ", valor: 300, data: "2026-11-10" },
       ],
     },
     {
@@ -287,6 +288,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "caixa parado ", valor: 1000, data: "2026-11-04" },
         { descricao: "juros do nubank ", valor: 400, data: "2026-11-05" },
         { descricao: "Fox Manutenção itacare Isaura (caixa de direção, abs, farol, arranque, ar condicionado) ", valor: 2238, data: "2026-11-06" },
+        { descricao: "gasolina para levar para cegonha", valor: 50, data: "2026-11-10" },
+        { descricao: "diferença da cegonha", valor: 50, data: "2026-11-10" },
        
         
         
