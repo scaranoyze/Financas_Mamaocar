@@ -242,7 +242,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "para choque", valor: 50, data: "2026-10-29" },
         { descricao: "lanterna e lampada do grand siena de comandatuba", valor: 200, data: "2026-11-03" },
         { descricao: "para-barro", valor: 60, data: "2026-11-04" },
-        
+        { descricao: "GASOLINA 11/11/2026", valor: 50, data: "2026-11-11" },
       ],
     },
     {
