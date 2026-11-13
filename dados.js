@@ -291,6 +291,8 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Fox Manutenção itacare Isaura (caixa de direção, abs, farol, arranque, ar condicionado) ", valor: 2238, data: "2026-11-06" },
         { descricao: "gasolina para levar para cegonha", valor: 50, data: "2026-11-10" },
         { descricao: "diferença da cegonha", valor: 50, data: "2026-11-10" },
+        { descricao: "gasolina gil", valor: 50, data: "2026-11-13" },
+        { descricao: "lampada", valor: 15, data: "2026-11-13" },
        
         
         
