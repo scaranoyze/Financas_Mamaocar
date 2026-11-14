@@ -135,11 +135,11 @@ window.DADOS_MAMAOCAR = {
     },
     {
       id: "HBVinteX",
-      nome: "HB20X 1.6 2015",
+      nome: "HB20X 1.6 2016",
       socios: "MARCELO/MARCELO/GIL",
       dataEntrada: "2026-09-15",
       valorCompra: 55200,
-      vendaPrevista: 63900,
+      vendaPrevista: 63000,
       custos: [
         { descricao: "adson pintura", valor: 350, data: "2026-09-17" },
         { descricao: "gasolina", valor: 50, data: "2026-09-18" },
