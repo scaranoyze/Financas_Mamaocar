@@ -242,7 +242,9 @@ window.DADOS_MAMAOCAR = {
         { descricao: "para choque", valor: 50, data: "2026-10-29" },
         { descricao: "lanterna e lampada do grand siena de comandatuba", valor: 200, data: "2026-11-03" },
         { descricao: "para-barro", valor: 60, data: "2026-11-04" },
+        { descricao: "mão de obra para-barro", valor: 150, data: "2026-11-04" },
         { descricao: "GASOLINA 11/11/2026", valor: 50, data: "2026-11-11" },
+        
       ],
     },
     {
@@ -303,7 +305,7 @@ window.DADOS_MAMAOCAR = {
       socios: "Marcelo",
       dataEntrada: "2026-10-09",
       valorCompra: 35000,
-      vendaPrevista: 38700,
+      vendaPrevista: 45700,
       custos: [
         { descricao: "gasolina (jp eletrica) ", valor: 50, data: "" },
         { descricao: "gasolina ", valor: 100, data: "2026-10-15" },
@@ -314,6 +316,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Bateria ", valor: 340, data: "2026-10-22" },
         { descricao: "Difusor de ar ", valor: 140, data: "2026-10-27" },
         { descricao: "martelinho de ouro ", valor: 1000, data: "2026-10-29" },
+        { descricao: "chave do palio (reforma) ", valor: 100, data: "2026-11-13" },
       ],
     },
   ], 
