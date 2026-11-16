@@ -317,6 +317,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Difusor de ar ", valor: 140, data: "2026-10-27" },
         { descricao: "martelinho de ouro ", valor: 1000, data: "2026-10-29" },
         { descricao: "chave do palio (reforma) ", valor: 100, data: "2026-11-13" },
+        { descricao: "paleta do vidro ", valor: 50, data: "2026-11-16" },
       ],
     },
   ], 
