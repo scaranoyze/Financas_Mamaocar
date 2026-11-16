@@ -135,7 +135,7 @@ window.DADOS_MAMAOCAR = {
     },
     {
       id: "HBVinteX",
-      nome: "HB20X 1.6 2016",
+      nome: "VENDIDO HB20X 1.6 2016",
       socios: "MARCELO/MARCELO/GIL",
       dataEntrada: "2026-09-15",
       valorCompra: 55200,
