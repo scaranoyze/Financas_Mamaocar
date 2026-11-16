@@ -295,6 +295,9 @@ window.DADOS_MAMAOCAR = {
         { descricao: "diferença da cegonha", valor: 50, data: "2026-11-10" },
         { descricao: "gasolina gil", valor: 50, data: "2026-11-13" },
         { descricao: "lampada", valor: 15, data: "2026-11-13" },
+        { descricao: " arrefecimento", valor: 2500, data: "2026-11-16" },
+        { descricao: " gas(ar)", valor: 100, data: "2026-11-16" },
+        
        
         
         
