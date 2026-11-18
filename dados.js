@@ -300,6 +300,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: " galego suspensao", valor: 450, data: "2026-11-17" },
         { descricao: " gasolina (mamao)", valor: 50, data: "2026-11-17" },
         { descricao: " troca de oleo (cedep)", valor: 351, data: "2026-11-17" },
+        { descricao: " Teto", valor: 1500, data: "2026-11-18" },
         
         
        
