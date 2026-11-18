@@ -297,6 +297,10 @@ window.DADOS_MAMAOCAR = {
         { descricao: "lampada", valor: 15, data: "2026-11-13" },
         { descricao: " arrefecimento", valor: 2500, data: "2026-11-16" },
         { descricao: " gas(ar)", valor: 100, data: "2026-11-16" },
+        { descricao: " galego suspensao", valor: 450, data: "2026-11-17" },
+        { descricao: " gasolina (mamao)", valor: 50, data: "2026-11-17" },
+        { descricao: " troca de oleo (cedep)", valor: 351, data: "2026-11-17" },
+        
         
        
         
