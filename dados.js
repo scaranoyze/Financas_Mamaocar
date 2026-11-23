@@ -207,6 +207,8 @@ window.DADOS_MAMAOCAR = {
       custos: [
         { descricao: "Gasolina", valor: 50, data: "2026-11-23" },
         { descricao: "Pneus", valor: 1200, data: "2026-11-23" },
+        { descricao: "Pneus", valor: 540, data: "2026-11-23" },
+        { descricao: "retorno toro branca luziana", valor: 770, data: "2026-11-23" },
       ],
     },
     {
