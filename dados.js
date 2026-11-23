@@ -198,6 +198,18 @@ window.DADOS_MAMAOCAR = {
       ],
     },
     {
+      id: "Ecosport",
+      nome: "Ecosport Freestyle 1.6 ",
+      socios: "Marcelo",
+      dataEntrada: "2026-11-23",
+      valorCompra: 25000,
+      vendaPrevista: 35000,
+      custos: [
+        { descricao: "Gasolina", valor: 50, data: "2026-11-23" },
+        { descricao: "Pneus", valor: 1200, data: "2026-11-23" },
+      ],
+    },
+    {
       id: "FordKaSE",
       nome: "VENDIDO Ford Ka Se DATA: 17/10/2026",
       socios: "Marcelo",
@@ -307,7 +319,8 @@ window.DADOS_MAMAOCAR = {
         
         
       ],
-    },{
+    },
+    {
       id: "Palio",
       nome: "Palio 1.6 Dualogic Sporting 2014",
       socios: "Marcelo",
