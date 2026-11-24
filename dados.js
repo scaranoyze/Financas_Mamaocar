@@ -175,6 +175,21 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Mao de obra (suspensão)", valor: 120, data: "2026-09-22" },
         { descricao: "Gasolina (fotos)", valor: 50, data: "2026-09-24" },
       ],
+    },
+    {
+      id: "Uno",
+      nome: "Uno Way 2013",
+      socios: "Marcelo",
+      dataEntrada: "2026-11-16",
+      valorCompra: 22000,
+      vendaPrevista: 28000,
+      custos: [
+        { descricao: "Spray ", valor: 30, data: "2026-11-24" },
+        { descricao: "limpeza (cabeleleira", valor: 170, data: "2026-11-24" },
+        { descricao: "polimento (risadinha) ", valor: 200, data: "2026-11-24" },
+        { descricao: "bateria ", valor: 330, data: "2026-11-24" },
+
+      ],
     },{
       id: "CitroenC3",
       nome: "VENDIDO Citroen C3 2018 1.6 Action DATA: 26/10/2026",
@@ -209,7 +224,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "Pneus", valor: 1210, data: "2026-11-23" },
         { descricao: "Pneus", valor: 540, data: "2026-11-23" },
         { descricao: "retorno toro branca luziana", valor: 770, data: "2026-11-23" },
-        { descricao: "pintura (tom)", valor: 800, data: "2026-11-23" },
+        { descricao: "pintura (tom)", valor: 1000, data: "2026-11-23" },
       ],
     },
     {
@@ -342,6 +357,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: "martelinho de ouro ", valor: 1000, data: "2026-10-29" },
         { descricao: "chave do palio (reforma) ", valor: 100, data: "2026-11-13" },
         { descricao: "paleta do vidro ", valor: 50, data: "2026-11-16" },
+        
       ],
     },
   ], 
