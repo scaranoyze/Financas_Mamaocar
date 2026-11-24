@@ -331,7 +331,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: " gasolina (mamao)", valor: 50, data: "2026-11-17" },
         { descricao: " troca de oleo (cedep)", valor: 351, data: "2026-11-17" },
         { descricao: " Teto", valor: 1500, data: "2026-11-18" },
-        { descricao: " Pintura Adson", valor: 250, data: "2026-11-24" },
+        { descricao: " Pintura Adson", valor: 300, data: "2026-11-24" },
         
        
         
