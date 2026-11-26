@@ -333,6 +333,7 @@ window.DADOS_MAMAOCAR = {
         { descricao: " Teto", valor: 1500, data: "2026-11-18" },
         { descricao: " Pintura Adson roda", valor: 300, data: "2026-11-24" },
         { descricao: " Pintura Adson", valor: 1000, data: "2026-11-24" },
+        { descricao: " Tela da frente do parachoque", valor: 63, data: "2026-11-26" },
         
        
         
